@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<modded_inputs>
+	<inputs>
+		<actions>
+			<input name="ZenCarHorn" loc="Press Car Horn" />
+		</actions>
+	</inputs>
+    <preset>
+		<input name="ZenCarHorn">
+            <btn name="kH"/>
+        </input>
+    </preset>
+</modded_inputs>
